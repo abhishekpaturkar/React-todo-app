@@ -71,6 +71,8 @@ Before you start, ensure you have the following installed:
 
 3. Open your browser and go to `http://localhost:5173` to access the Todo app.
 
+![Screenshot](React.jpg)
+
 ## Usage
 
 - Add a new task by entering the task description and clicking the "Add Task" button.
